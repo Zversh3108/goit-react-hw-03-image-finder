@@ -1,0 +1,16 @@
+.Error {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+    background-color: #f8d7da;
+    color: #721c24;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 20px;
+  }
+  
+  .Error p {
+    margin: 0;
+  }
+  
