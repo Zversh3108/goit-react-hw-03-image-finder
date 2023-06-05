@@ -1,4 +1,4 @@
-import React, { Component } from 'react';import PropTypes from 'prop-types';
+
 import { ColorRing } from 'react-loader-spinner';
 import css from './Loader.module.css';
 export class Loader extends Component {

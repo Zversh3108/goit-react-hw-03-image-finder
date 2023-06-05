@@ -71,15 +71,7 @@ export class ImageGallery extends Component {
   };
 
   render() {
-    const {
-      images,
-      showButton,
-      loading,
-      showModal,
-      selectedImageURL,
-      selectedImageTags,
-      error,
-    } = this.state;
+    const { images, showButton, loading, showModal, error } = this.state;
 
     return (
       <div className={css.Container}>
