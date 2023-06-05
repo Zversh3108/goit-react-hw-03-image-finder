@@ -1,4 +1,4 @@
-
+import { Component } from 'react';
 import { ColorRing } from 'react-loader-spinner';
 import css from './Loader.module.css';
 export class Loader extends Component {
